@@ -1,0 +1,7 @@
+C:\Users\Administrator\aspnetcoreapp\bin\Release\net6.0\publish\aspnetcoreapp.exe
+C:\Users\Administrator\aspnetcoreapp\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\Administrator\aspnetcoreapp\bin\Release\net6.0\publish\appsettings.json
+C:\Users\Administrator\aspnetcoreapp\bin\Release\net6.0\publish\aspnetcoreapp.dll
+C:\Users\Administrator\aspnetcoreapp\bin\Release\net6.0\publish\aspnetcoreapp.deps.json
+C:\Users\Administrator\aspnetcoreapp\bin\Release\net6.0\publish\aspnetcoreapp.runtimeconfig.json
+C:\Users\Administrator\aspnetcoreapp\bin\Release\net6.0\publish\aspnetcoreapp.pdb
